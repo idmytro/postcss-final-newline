@@ -1,1 +1,3 @@
-# postcss-insert-newline
+# Postcss final newline
+
+Inserts final new line.
