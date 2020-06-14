@@ -1,0 +1,23 @@
+{
+  "name": "postcss-final-newline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmytro/postcss-final-newline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idmytro/postcss-final-newline/issues"
+  },
+  "homepage": "https://github.com/idmytro/postcss-final-newline#readme",
+  "dependencies": {
+    "postcss": "^7.0.32"
+  }
+}
